@@ -1,0 +1,78 @@
+2020-02-04 00:00:01 AM com.android.calendar [Thread:46262] ASSEMBLE_PUSH : assemble push register 
+2020-02-04 00:00:01 AM com.android.calendar [Thread:46262] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-04 00:00:01 AM com.android.calendar receiving an empty message, drop 
+2020-02-04 17:34:23 PM com.android.calendar [Thread:49806] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-04 17:34:23 PM com.android.calendar [Thread:49806] processing a message, action=Notification 
+2020-02-04 17:34:23 PM com.android.calendar [Thread:49806] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-04 17:34:23 PM com.android.calendar [Thread:49806] processing a message, action=Registration 
+2020-02-04 17:34:23 PM com.android.calendar [Thread:49806] ASSEMBLE_PUSH : assemble push register 
+2020-02-04 18:00:05 PM com.android.calendar [Thread:49953] ASSEMBLE_PUSH : assemble push register 
+2020-02-04 18:00:05 PM com.android.calendar [Thread:49953] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-04 18:00:05 PM com.android.calendar receiving an empty message, drop 
+2020-02-05 00:00:02 AM com.android.calendar [Thread:52337] ASSEMBLE_PUSH : assemble push register 
+2020-02-05 00:00:02 AM com.android.calendar [Thread:52337] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-05 00:00:02 AM com.android.calendar receiving an empty message, drop 
+2020-02-06 00:00:07 AM com.android.calendar [Thread:58998] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-06 00:00:07 AM com.android.calendar [Thread:58998] processing a message, action=Notification 
+2020-02-06 00:00:09 AM com.android.calendar [Thread:58998] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-06 00:00:09 AM com.android.calendar [Thread:58998] processing a message, action=Registration 
+2020-02-06 00:00:09 AM com.android.calendar [Thread:58998] ASSEMBLE_PUSH : assemble push register 
+2020-02-06 21:08:55 PM com.android.calendar [Thread:65858] ASSEMBLE_PUSH : assemble push register 
+2020-02-06 21:08:55 PM com.android.calendar [Thread:65858] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-06 21:08:55 PM com.android.calendar receiving an empty message, drop 
+2020-02-07 00:00:01 AM com.android.calendar [Thread:67138] ASSEMBLE_PUSH : assemble push register 
+2020-02-07 00:00:01 AM com.android.calendar [Thread:67138] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-07 00:00:01 AM com.android.calendar receiving an empty message, drop 
+2020-02-08 00:00:04 AM com.android.calendar [Thread:75954] ASSEMBLE_PUSH : assemble push register 
+2020-02-08 00:00:04 AM com.android.calendar [Thread:75954] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-08 00:00:04 AM com.android.calendar receiving an empty message, drop 
+2020-02-11 00:00:02 AM com.android.calendar [Thread:96333] do sync info 
+2020-02-12 00:00:02 AM com.android.calendar [Thread:102809] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-12 00:00:02 AM com.android.calendar receiving an empty message, drop 
+2020-02-13 00:00:01 AM com.android.calendar [Thread:109873] ASSEMBLE_PUSH : assemble push register 
+2020-02-13 00:00:01 AM com.android.calendar [Thread:109873] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-13 00:00:01 AM com.android.calendar receiving an empty message, drop 
+2020-02-15 00:00:02 AM com.android.calendar [Thread:123526] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-15 00:00:02 AM com.android.calendar receiving an empty message, drop 
+2020-02-15 23:36:35 PM com.android.calendar [Thread:129007] ASSEMBLE_PUSH : assemble push register 
+2020-02-15 23:36:35 PM com.android.calendar [Thread:129007] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-15 23:36:35 PM com.android.calendar receiving an empty message, drop 
+2020-02-16 21:27:59 PM com.android.calendar [Thread:136198] ASSEMBLE_PUSH : assemble push register 
+2020-02-16 21:27:59 PM com.android.calendar [Thread:136198] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-16 21:27:59 PM com.android.calendar receiving an empty message, drop 
+2020-02-17 00:00:04 AM com.android.calendar [Thread:137205] ASSEMBLE_PUSH : assemble push register 
+2020-02-17 00:00:04 AM com.android.calendar [Thread:137205] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-17 00:00:04 AM com.android.calendar receiving an empty message, drop 
+2020-02-18 06:03:29 AM com.android.calendar [Thread:145084] ASSEMBLE_PUSH : assemble push register 
+2020-02-18 06:03:29 AM com.android.calendar [Thread:145084] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-18 06:03:29 AM com.android.calendar receiving an empty message, drop 
+2020-02-20 00:00:01 AM com.android.calendar [Thread:155486] ASSEMBLE_PUSH : assemble push register 
+2020-02-20 00:00:01 AM com.android.calendar [Thread:155486] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-20 00:00:01 AM com.android.calendar receiving an empty message, drop 
+2020-02-20 08:30:46 AM com.android.calendar [Thread:491] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{1997122 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-02-20 22:12:36 PM com.android.calendar [Thread:409] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{6ced5e1 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-02-25 02:05:26 AM com.android.calendar [Thread:30390] do sync info 
+2020-02-26 02:23:39 AM com.android.calendar [Thread:34420] ASSEMBLE_PUSH : assemble push register 
+2020-02-26 02:23:39 AM com.android.calendar [Thread:34420] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-26 02:23:39 AM com.android.calendar receiving an empty message, drop 
+2020-02-26 05:40:21 AM com.android.calendar [Thread:346] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{97776ef u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-02-28 01:45:44 AM com.android.calendar [Thread:386] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{96174d5 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-02-28 15:41:18 PM com.android.calendar [Thread:3782] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-28 15:41:18 PM com.android.calendar receiving an empty message, drop 
+2020-02-29 00:00:01 AM com.android.calendar [Thread:5202] ASSEMBLE_PUSH : assemble push register 
+2020-02-29 00:00:01 AM com.android.calendar [Thread:5202] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-29 00:00:01 AM com.android.calendar receiving an empty message, drop 
+2020-02-29 11:20:59 AM com.android.calendar [Thread:8024] ASSEMBLE_PUSH : assemble push register 
+2020-02-29 11:20:59 AM com.android.calendar [Thread:8024] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-02-29 11:20:59 AM com.android.calendar receiving an empty message, drop 
+2020-03-01 14:04:32 PM com.android.calendar [Thread:382] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{6195095 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-03-06 20:39:04 PM com.android.calendar [Thread:385] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{a015240 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-03-06 20:39:04 PM com.android.calendar [Thread:389] ASSEMBLE_PUSH : assemble push register 
+2020-03-11 00:00:00 AM com.android.calendar [Thread:24443] do sync info 
+2020-03-13 01:23:03 AM com.android.calendar [Thread:37509] ASSEMBLE_PUSH : assemble push register 
+2020-03-13 01:23:03 AM com.android.calendar [Thread:37509] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-13 01:23:03 AM com.android.calendar receiving an empty message, drop 
+2020-03-13 01:49:45 AM com.android.calendar [Thread:401] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{b310493 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
+2020-03-14 02:21:12 AM com.android.calendar [Thread:6511] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-14 02:21:12 AM com.android.calendar receiving an empty message, drop 
+2020-03-17 05:27:27 AM com.android.calendar [Thread:406] Not allowed to start service Intent { cmp=com.android.calendar/com.xiaomi.mipush.sdk.MessageHandleService }: app is in background uid UidRecord{982cfa3 u0a20 CEM  idle change:cached procs:1 seq(0,0,0)} 
